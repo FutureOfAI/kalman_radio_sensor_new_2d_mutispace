@@ -1,0 +1,13 @@
+%% aj_8
+% y_anchor_2 = 8.91; 
+% x_anchor_2 = 0;
+% z_anchor_2 = 2.5;
+
+%% aj_7 
+% y_anchor_2 = 9.37; 
+% x_anchor_2 = 0.55;
+% z_anchor_2 = 1.83;%1.83;
+%% aj_4
+% y_anchor_2 = 9.38; 
+% x_anchor_2 = 0.55;
+% z_anchor_2 = 1.90;%1.83;
